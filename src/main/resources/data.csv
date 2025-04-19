@@ -1,0 +1,12 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+143,Joe,Doe,60000,
+144,Martin,Chekov,45000,143
+145,Bob,Ronstad,47000,143
+400,Alice,Hasacat,50000,145
+305,Brett,Hardleaf,34000,400
+505,Brett,ffdfdfd,34000,305
